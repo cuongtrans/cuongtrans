@@ -32,7 +32,6 @@ My future goal is to become a **`Data Science`**. With that being said, I work m
 
 💬 **Contact me via:**
 
-<p align="left">
 <a href="https://github.com/cuongtrans">
   <img align="left" alt="Cuong's Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="22px" height="40px"/>
 </a>
@@ -45,18 +44,8 @@ My future goal is to become a **`Data Science`**. With that being said, I work m
 <a href="https://www.hackerrank.com/cuongquoc290701">
   <img align="left" alt="Cuong's LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" width="22px" height="40px"/>
 </a>
-<br/>
-<p/>
+<br />
 
+---
 
-### ✍️ Like to chat with me?
-<img align="right" alt="Relaxing" src="https://media.giphy.com/media/fFK4HZ7wGAYffM9Dix/giphy.gif" height="250px" width="200px">
-
-Pick a slot if you would like to meet me and know more about my experiences, goals and my daily hobbies. Hope to contact with you!
-
-<img align="left" alt="Meeting" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" width="500px">
-
-
-
-
-
+## 📊 Metics
