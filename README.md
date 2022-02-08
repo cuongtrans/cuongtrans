@@ -52,3 +52,10 @@ My future goal is to become a **`Data Science`**. With that being said, I work m
 
 <img align="center" alt="Metrics" src="/github-metrics.svg" width="1500px">
  
+---
+
+## ✍️ View my Top Repositories
+
+<a href="https://github.com/cuongtrans/cuongtrans">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cuongtrans&repo=cuongtrans&theme=buefy" />
+</a>
