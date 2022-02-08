@@ -50,5 +50,5 @@ My future goal is to become a **`Data Science`**. With that being said, I work m
 
 ## 📊 Metics
 
-<img align="center" alt="Metrics" src="/github-metrics.svg" width="1500px">
+![Metrics](https://metrics.lecoq.io/cuongtrans?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=2%25&languages.colors=github&languages.sections=most-used&languages.details=lines%2C%20bytes-size%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=200&languages.recent.days=14&activity.limit=5&activity.load=200&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FHo_Chi_Minh&config.twemoji=true&config.display=large)
  
