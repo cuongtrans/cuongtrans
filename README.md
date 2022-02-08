@@ -49,3 +49,6 @@ My future goal is to become a **`Data Science`**. With that being said, I work m
 ---
 
 ## 📊 Metics
+
+<img align="center" alt="Metrics" src="/github-metrics.svg" width="1500px">
+ 
