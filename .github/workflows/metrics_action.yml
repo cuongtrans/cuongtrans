@@ -20,7 +20,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
-          config_order: base.header, isocalendar, languages, achievements
           config_timezone: Asia/Ho_Chi_Minh
           config_twemoji: yes
           plugin_achievements: yes
@@ -40,3 +39,14 @@ jobs:
           plugin_languages_recent_load: 200
           plugin_languages_sections: most-used
           plugin_languages_threshold: 2%
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 200
+          plugin_activity_visibility: all
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 7
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
