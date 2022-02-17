@@ -18,7 +18,7 @@ My future goal is to become a **`Data Science`**. With that being said, I work m
 <img alt="Ctrl Z" src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="30px"> **Languages and Tools:**
 
 <p align="left">
-<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=python&logoColor=white" height="22px">
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="22px">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" height="22px">
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" height="22px">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F8900C?style=flat&logo=mysql&logoColor=white" height="22px">
