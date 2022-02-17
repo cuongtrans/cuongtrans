@@ -5,7 +5,7 @@
 My future goal is to become a **`Data Science`**. With that being said, I work my best with my own boundaries, **`Commitment`**, **`Can-do`** attitude, and an **`Innovative`** mindset to come up with new ideas and deliver innovative solutions to achieve what I want and become who I want to be.
 
 ![Github Followers](https://img.shields.io/github/followers/cuongtrans?color=0045BC&style=flat&label=Followers&logo=github)
-<img alt = "cuongtrans" src="https://komarev.com/ghpvc/?username=cuongtrans&color=0045BC&style=flat&label=Profile+Views"/>
+<img alt="cuongtrans" src="https://komarev.com/ghpvc/?username=cuongtrans&color=0045BC&style=flat&label=Profile+Views"/>
 <img alt="Issues" src="https://img.shields.io/github/issues/cuongtrans/cuongtrans?color=0045BC&style=flat&label=Issues"/>
 <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cuongtrans/cuongtrans?color=0045BC&style=flat&label=Pull+Requests"/>
   
